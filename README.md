@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning REACT, PYTHON, BASH, ETHICAL HACKING.
 - 💞️ I’m looking to collaborate on Web Development and System Testing.
 - My web, coming soon: https://devhumberto-65c61.web.app/
+- I don't usually upload personal client projects.
 
 <!---
 DevHumberto/DevHumberto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
